@@ -27,14 +27,14 @@
   .v1 li{color:white}
   .y{margin-left: 50%;}
   .y1{margin-left: 40%;}
-  .i1{height:280px;}
+  .i1{height:200px;}
   .container1 {
     position: relative;
     text-align: center;
     color: white;
     font-size: 20px;
-    margin:100px;
-    width: 200px;
+    margin:50px;
+    width: 150px;
   }
   .centered1 {
     position: absolute;
@@ -42,7 +42,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-style: italic;
-    font-size: 30px;
+    font-size: 25px;
   }
   .btn2 {
     position: absolute;
